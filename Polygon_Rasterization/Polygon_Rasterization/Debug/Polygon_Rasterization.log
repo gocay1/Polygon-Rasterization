@@ -1,0 +1,33 @@
+﻿  ScanConvert.cpp
+c:\users\tunc gocay\documents\visual studio 2015\projects\polygon_rasterization\scanconvert.h(47): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\tunc gocay\documents\visual studio 2015\projects\polygon_rasterization\scanconvert.h(48): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\tunc gocay\documents\visual studio 2015\projects\polygon_rasterization\scanconvert.h(49): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\tunc gocay\documents\visual studio 2015\projects\polygon_rasterization\scanconvert.h(52): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\tunc gocay\documents\visual studio 2015\projects\polygon_rasterization\scanconvert.h(53): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\tunc gocay\documents\visual studio 2015\projects\polygon_rasterization\scanconvert.h(54): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\tunc gocay\documents\visual studio 2015\projects\polygon_rasterization\scanconvert.cpp(128): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tunc gocay\documents\visual studio 2015\projects\polygon_rasterization\scanconvert.cpp(129): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\tunc gocay\documents\visual studio 2015\projects\polygon_rasterization\scanconvert.cpp(212): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\tunc gocay\documents\visual studio 2015\projects\polygon_rasterization\scanconvert.cpp(223): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tunc gocay\documents\visual studio 2015\projects\polygon_rasterization\scanconvert.cpp(224): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tunc gocay\documents\visual studio 2015\projects\polygon_rasterization\scanconvert.cpp(225): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\tunc gocay\documents\visual studio 2015\projects\polygon_rasterization\scanconvert.cpp(441): warning C4018: '<': signed/unsigned mismatch
+c:\users\tunc gocay\documents\visual studio 2015\projects\polygon_rasterization\scanconvert.cpp(444): warning C4018: '<': signed/unsigned mismatch
+  PolygonDrawer.cpp
+c:\users\tunc gocay\documents\visual studio 2015\projects\polygon_rasterization\scanconvert.h(47): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\tunc gocay\documents\visual studio 2015\projects\polygon_rasterization\scanconvert.h(48): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\tunc gocay\documents\visual studio 2015\projects\polygon_rasterization\scanconvert.h(49): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\tunc gocay\documents\visual studio 2015\projects\polygon_rasterization\scanconvert.h(52): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\tunc gocay\documents\visual studio 2015\projects\polygon_rasterization\scanconvert.h(53): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\tunc gocay\documents\visual studio 2015\projects\polygon_rasterization\scanconvert.h(54): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\tunc gocay\documents\visual studio 2015\projects\polygon_rasterization\polygondrawer.cpp(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\tunc gocay\documents\visual studio 2015\projects\polygon_rasterization\polygondrawer.cpp(74): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+c:\users\tunc gocay\documents\visual studio 2015\projects\polygon_rasterization\polygondrawer.cpp(89): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tunc gocay\documents\visual studio 2015\projects\polygon_rasterization\polygondrawer.cpp(97): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tunc gocay\documents\visual studio 2015\projects\polygon_rasterization\polygondrawer.cpp(128): warning C4018: '<': signed/unsigned mismatch
+c:\users\tunc gocay\documents\visual studio 2015\projects\polygon_rasterization\polygondrawer.cpp(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\tunc gocay\documents\visual studio 2015\projects\polygon_rasterization\polygondrawer.cpp(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\tunc gocay\documents\visual studio 2015\projects\polygon_rasterization\polygondrawer.cpp(192): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Polygon_Rasterization.vcxproj -> C:\Users\Tunc Gocay\Documents\Visual Studio 2015\Projects\Polygon_Rasterization\Debug\Polygon_Rasterization.exe
+  Polygon_Rasterization.vcxproj -> C:\Users\Tunc Gocay\Documents\Visual Studio 2015\Projects\Polygon_Rasterization\Debug\Polygon_Rasterization.pdb (Partial PDB)
